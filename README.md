@@ -1,0 +1,3 @@
+# ExportSubstanceDesignerTexture
+Export Substance Designer Texture
+导出Substance Designer贴图的工具的核心代码。目前还没做成完整的插件，有需自取
